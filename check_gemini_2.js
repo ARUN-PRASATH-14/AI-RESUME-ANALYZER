@@ -2,7 +2,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // User provided keys
 const keys = [
-    "AIzaSyDGOcRJzRPGKwv9Nx-74oTMDdPgVAOolIY"
+
 ];
 
 async function checkGemini2() {
