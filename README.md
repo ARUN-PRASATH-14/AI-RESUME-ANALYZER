@@ -4,7 +4,8 @@ A modern, AI-powered tool that analyzes resumes against job descriptions, provid
 
 AI Resume Analyzer : https://ai-resume-analyzer-one-tawny.vercel.app/
 
-![Uploading image.png…]()
+<img width="1872" height="826" alt="image" src="https://github.com/user-attachments/assets/c85d9182-0e45-4589-a827-9a403e796075" />
+
 
 ## ✨ Features
 
