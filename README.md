@@ -2,7 +2,8 @@
 
 A modern, AI-powered tool that analyzes resumes against job descriptions, providing actionable feedback, ATS scores, and smart rewrites.
 
-![AI Resume Analyzer Demo](./public/demo-screenshot.png)
+AI Resume Analyzer : https://ai-resume-analyzer-one-tawny.vercel.app/
+
 
 ## ✨ Features
 
