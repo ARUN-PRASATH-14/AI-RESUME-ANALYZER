@@ -31,5 +31,5 @@ Since we receive the API Key from `.env` locally, you **must** add it to Vercel 
 2.  Click **Settings** > **Environment Variables**.
 3.  Add a new variable:
     *   **Key**: `VITE_GEMINI_API_KEY`
-    *   **Value**: `AIzaSyDGOcRJzRPGKwv9Nx-74oTMDdPgVAOolIY`
+
 4.  Click **Save** and then **Redeploy** (or run `npx vercel --prod` in terminal).
